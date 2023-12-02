@@ -15,6 +15,7 @@ import { CommonModule } from '@angular/common';
     AppRoutingModule,
     FormsModule,
     CommonModule,
+    Pipe
   ],
   providers: [],
   bootstrap: [AppComponent]
